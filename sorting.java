@@ -1,4 +1,5 @@
 import java.util.Arrays;
+// Program to check whether array contains duplicate element
 public class sorting {
     public static void main(String[] args) {
         int arr[] = {2,4,5,8,6,9,0,1};

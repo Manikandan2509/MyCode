@@ -1,5 +1,5 @@
 import java.util.HashSet;
-
+// Program to check whether array contains duplicate element
 public class HashSet1 {
     public static void main(String[] args) {
         int[] arr = {1,5,3,8,657,2,2,4,4,9};
